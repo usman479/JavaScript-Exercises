@@ -1,0 +1,1 @@
+let mountains = ["K2", "Himalaya", "Nanga parbat"];
